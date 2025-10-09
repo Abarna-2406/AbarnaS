@@ -1,11 +1,11 @@
-                                     🔐 Project Title: Login Authentication System
-📘 Description:
+                                      Project Title: Login Authentication System
+ Description:
 
 The Login Authentication System is a secure web-based application designed to validate user credentials before granting access to protected areas of a website or web app. It implements a simple yet effective front-end login interface that collects the user’s email and password, securely transmits them to a backend API (or mock server), and provides real-time feedback based on the authentication response.
 
 This system forms the foundation of most secure web applications and can be extended with registration, password recovery, or two-factor authentication modules.
 
-💡 Uniqueness:
+ Uniqueness:
 
 Interactive UI with Real-Time Feedback — Users instantly see whether their login attempt succeeded or failed.
 
@@ -17,7 +17,7 @@ Ready for Integration — The system is designed to easily connect to a backend 
 
 Modern UI/UX Design — Built using responsive design principles with CSS gradients, rounded corners, and subtle shadows for a professional look.
 
-⚙️ Features:
+ Features:
 
 User Login Form
 
@@ -45,7 +45,7 @@ Responsive Design
 
 Centered authentication form, adaptable to all screen sizes.
 
-🧩 Technologies Used:
+ Technologies Used:
 
 HTML5 – Structure and form design.
 
@@ -53,12 +53,12 @@ CSS3 – Styling and layout (gradient background, card design).
 
 JavaScript (ES6) – Functionality for validation, API calls, and interactivity.
 
-🖥️ Output / User Interface Contents:
+ Output / User Interface Contents:
 
 Page Name: Secure Login Page
 When the user opens the system, they will see:
 
-Heading: “🔒 Secure Login”
+Heading: “ Secure Login”
 
 Form Fields:
 
@@ -72,7 +72,7 @@ Login: Submits the credentials.
 
 Messages Section:
 
-Displays “✅ Login successful!” or “❌ Login failed.”
+Displays “ Login successful!” or “ Login failed.”
 
 Visual Design:
 
@@ -80,7 +80,7 @@ A white card container centered on a gradient background (purple → teal).
 
 Rounded corners and soft shadow for depth.
 
-🧠 Possible Enhancements (Optional):
+ Possible Enhancements (Optional):
 
 Add “Forgot Password” and “Register” links.
 
